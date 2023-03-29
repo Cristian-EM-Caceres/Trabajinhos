@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+    background-image: url(https://i0.wp.com/medioambienteynaturaleza.com/wp-content/uploads/2015/06/Fondos-de-pantalla-de-paisajes-naturales29.jpg?w=1498&ssl=1);
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.opciones{
+  color: white;
+}
